@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cf8qTTTqmjqcZBHgs4d4l2VuO1DyCbKXa/tLl+OHu67XHyffo9tO6Vr+HjXoXIlMg1Mf5+X/s5+yfOnACP3clw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Albersb\\OneDrive\\VehicleSales\\VehicleSales\\build.proj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Albersb\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Albersb\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.2\\microsoft.netframework.referenceassemblies.net45.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
